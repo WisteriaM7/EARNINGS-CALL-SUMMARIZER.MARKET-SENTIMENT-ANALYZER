@@ -1,0 +1,49 @@
+TESLA, INC. — Q4 2024 EARNINGS CALL TRANSCRIPT
+Date: January 29, 2025
+Participants: Elon Musk (CEO), Vaibhav Taneja (CFO), Martin Viecha (IR)
+
+[MODERATOR]: Good afternoon and welcome to Tesla's Q4 2024 earnings call.
+I'll now turn it over to Elon Musk, Chief Executive Officer.
+
+[CEO - ELON MUSK]: Thank you. Q4 was a record quarter for Tesla. We delivered
+495,000 vehicles globally, a 12% increase year-over-year, and crossed the
+milestone of 1.8 million total annual deliveries for 2024. Energy storage
+deployments hit an all-time high of 11 GWh in the quarter. Optimus robot
+production is ramping; we expect to begin limited commercial deployments in 2025.
+Full Self-Driving supervised miles crossed 2 billion this quarter. We are
+confident in achieving 20–30% delivery growth in 2025.
+
+[CFO - VAIBHAV TANEJA]: Thank you, Elon. Revenue for Q4 came in at $25.7 billion,
+up 15% year-over-year. Automotive gross margin improved to 19.8% from 17.6% in Q3,
+driven by lower material costs and improved manufacturing efficiency at Gigafactories.
+Operating income was $2.3 billion, representing a 9% operating margin. Free cash
+flow for the quarter was $2.0 billion. We ended the year with $29.1 billion in
+cash and cash equivalents. Capital expenditure for 2025 is expected to be at
+least $10 billion, primarily directed toward Gigafactory Texas expansion,
+Dojo supercomputing, and new model development.
+
+[ANALYST - DAN LEVY, BARCLAYS]: Elon, can you speak to the competitive pricing
+pressure in China from BYD and how it is affecting margins?
+
+[CEO - ELON MUSK]: Great question. China remains highly competitive. We have
+reduced prices selectively in certain trims to maintain volume, and our Gigafactory
+Shanghai continues to be the most efficient production facility we have globally.
+We believe our software and FSD differentiation will sustain our competitive edge
+long-term. However, I want to be transparent — near-term margin pressure in China
+is real, and we are monitoring it carefully.
+
+[ANALYST - ADAM JONAS, MORGAN STANLEY]: Could you update us on the timeline
+for the next-generation affordable vehicle?
+
+[CEO - ELON MUSK]: We remain on track to begin production of our next-generation,
+more affordable vehicle in the first half of 2025. This vehicle is critical to
+unlocking our next wave of volume growth and will leverage our unboxed manufacturing
+process. We expect it to meaningfully expand our total addressable market.
+
+[CFO - VAIBHAV TANEJA]: I would add that while investments are elevated in 2025,
+we expect operating leverage to improve meaningfully in the second half of the year
+as the new vehicle ramps and energy storage deployments continue to scale.
+We are reiterating guidance for 20–30% vehicle delivery growth in 2025.
+
+[MODERATOR]: Thank you. That concludes today's Q4 2024 earnings call.
+A replay will be available on our Investor Relations website.
